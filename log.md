@@ -84,3 +84,15 @@
 **Today's Progress**: Learning content projection in Angular, refactoring with content projection for todos
 
 **Link to work:** [ToDo App](https://stackblitz.com/edit/angular-rshejh?file=src%2Fapp%2Fapp.component.html)
+
+### Day 15: December 14, 2020
+
+**Today's Progress**: Learning routing, layout for routing project
+
+**Link to work:** [Routing App](https://angular-routing67.stackblitz.io/)
+
+### Day 16: December 15, 2020
+
+**Today's Progress**: Creating routes and setting active links
+
+**Link to work:** [Routing App](https://angular-routing67.stackblitz.io/)
