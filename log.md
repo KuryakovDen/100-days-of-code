@@ -96,3 +96,9 @@
 **Today's Progress**: Creating routes and setting active links
 
 **Link to work:** [Routing App](https://angular-routing67.stackblitz.io/)
+
+### Day 17: December 16, 2020
+
+**Today's Progress**: Creating routing navigation, dynamic routes
+
+**Link to work:** [Routing App](https://angular-routing67.stackblitz.io/)
